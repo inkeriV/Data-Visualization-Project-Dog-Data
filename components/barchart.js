@@ -1,6 +1,6 @@
 class Barchart {
 
-    margin = {top: 10, bottom: 60, left: 12, right: 10 }
+    margin = {top: 5, bottom: 80, left: 30, right: 10}
 
     constructor(svg, tooltip, data, width=1150, height=725) {
         this.svg = svg;
