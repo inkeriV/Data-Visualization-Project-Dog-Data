@@ -1,6 +1,6 @@
 class Heatmap {
 
-    margin = {top: 20, bottom: 80, left: 270, right: 250 }
+    margin = {top: 20, bottom: 80, left: 291, right: 250 }
 
     constructor(svg, tooltip, data, width=625, height=625) {
         this.svg = svg;
